@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robi.it.com/sitemap.xml
